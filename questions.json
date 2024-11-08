@@ -1,0 +1,25 @@
+[
+  {
+    "questionNo": 1,
+    "question": " Look at the given array and complete the division sentence.",
+    "options":["12","÷","","=",""],
+    "answers": ["12","÷","3","=","4"],
+    "secondImg":"./images/11.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Using the picture complete the division sentence.",
+    "options":["10","÷","","=",""],
+    "answers": ["10","÷","2","=","5"],
+    "secondImg":"./images/12.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Use the array given below to complete the division sentence.",
+    "options":["6","÷","","=",""],
+    "answers": ["6","÷","3","=","2"],
+    "secondImg":"./images/13.jpg"
+  }
+]
